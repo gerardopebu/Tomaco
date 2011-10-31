@@ -1,0 +1,7 @@
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Release\CodeGames.exe
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Release\CodeGames.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Release\CodeGamesDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Release\CodeGamesDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Release\CodeGames.exe
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Release\CodeGames.pdb

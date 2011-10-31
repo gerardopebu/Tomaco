@@ -1,0 +1,7 @@
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\bin\Release\TomacoClientSocket.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\bin\Release\TomacoClientSocket.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\obj\Release\TomacoClientSocket.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\obj\Release\TomacoClientSocket.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\bin\Release\Caliburn.Micro.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\bin\Release\System.Windows.Interactivity.dll

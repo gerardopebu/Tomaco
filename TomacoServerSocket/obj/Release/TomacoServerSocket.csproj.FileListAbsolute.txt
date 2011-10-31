@@ -1,0 +1,7 @@
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\bin\Release\TomacoServerSocket.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\bin\Release\TomacoServerSocket.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\bin\Release\TomacoDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\bin\Release\TomacoDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\obj\Release\TomacoServerSocket.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\obj\Release\TomacoServerSocket.pdb

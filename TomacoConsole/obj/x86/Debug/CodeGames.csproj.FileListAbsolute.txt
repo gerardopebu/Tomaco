@@ -1,0 +1,14 @@
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\bin\Debug\CodeGames.exe
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\bin\Debug\CodeGames.pdb
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\obj\x86\Debug\CodeGames.exe
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\obj\x86\Debug\CodeGames.pdb
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\bin\Debug\CodeGamesDomain.dll
+c:\users\iago\documents\visual studio 2010\Projects\CodeGames\CodeGames\bin\Debug\CodeGamesDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Debug\CodeGames.exe
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Debug\CodeGames.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Debug\CodeGames.exe
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Debug\CodeGames.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Debug\CodeGamesDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\bin\Debug\CodeGamesDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGames\obj\x86\Debug\ResolveAssemblyReference.cache

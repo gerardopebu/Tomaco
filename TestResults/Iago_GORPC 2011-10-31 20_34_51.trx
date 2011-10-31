@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="080b1a95-0a08-4d03-818a-4ba6dc4356b4" name="Iago@GORPC 2011-10-31 20:34:51" runUser="GorPC\Iago" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="aa1769db-939c-4284-b554-043d5b6c4a31">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Iago_GORPC 2011-10-31 20_34_51">
+      <DeploymentItem filename="C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\bin\Release\TomacoDomain.dll" />
+      <DeploymentItem filename="C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoClientSocket\bin\Release\TomacoClientSocket.dll" />
+      <DeploymentItem filename="C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\bin\Release\TomacoServerSocket.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-31T20:34:51.1225843+01:00" queuing="2011-10-31T20:34:53.2225873+01:00" start="2011-10-31T20:34:53.3525874+01:00" finish="2011-10-31T20:35:30.3946400+01:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="GORPC" outcome="Error" timestamp="2011-10-31T20:34:57.2425929+01:00">
+        <Text>One of the background threads threw exception: 
+System.Net.Sockets.SocketException (0x80004005): Una operación de bloqueo fue interrumpida por una llamada a WSACancelBlockingCall
+   en System.Net.Sockets.Socket.Accept()
+   en TomacoServerSocket.ServerSocket.esperarConexion() en C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoServerSocket\ServerSocket.cs:línea 40
+   en System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   en System.Threading.ExecutionContext.runTryCode(Object userData)
+   en System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   en System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean ignoreSyncCtx)
+   en System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   en System.Threading.ThreadHelper.ThreadStart()</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="se_realizan_los_cambios_de_estado_segun_la_configuracion" storage="c:\users\iago\documents\visual studio 2010\projects\tomaco\tomacotests\bin\release\tomacotests.dll" id="b3d5a3a0-46de-d48f-115d-eed6f65d0549">
+      <Execution id="b02f09bc-d970-4b27-b580-0ce9fa21e24b" />
+      <TestMethod codeBase="C:/Users/Iago/Documents/Visual Studio 2010/Projects/Tomaco/TomacoTests/bin/Release/TomacoTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TomacoTests.TomacoBehaviors, TomacoTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="se_realizan_los_cambios_de_estado_segun_la_configuracion" />
+    </UnitTest>
+    <UnitTest name="puedo_crear_un_servidor_y_un_cliente_y_puedo_iniciarlos_y_sincronizarlos_obteniendo_el_resultado_del_tomaco" storage="c:\users\iago\documents\visual studio 2010\projects\tomaco\tomacotests\bin\release\tomacotests.dll" id="fbbc8eb6-e0c6-de4c-e4ef-a79b317604a7">
+      <Execution id="2e99707b-2046-423e-bfab-f95ca6d415ef" />
+      <TestMethod codeBase="C:/Users/Iago/Documents/Visual Studio 2010/Projects/Tomaco/TomacoTests/bin/Release/TomacoTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TomacoTests.TomacoBehaviors, TomacoTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="puedo_crear_un_servidor_y_un_cliente_y_puedo_iniciarlos_y_sincronizarlos_obteniendo_el_resultado_del_tomaco" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b3d5a3a0-46de-d48f-115d-eed6f65d0549" executionId="b02f09bc-d970-4b27-b580-0ce9fa21e24b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fbbc8eb6-e0c6-de4c-e4ef-a79b317604a7" executionId="2e99707b-2046-423e-bfab-f95ca6d415ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b02f09bc-d970-4b27-b580-0ce9fa21e24b" testId="b3d5a3a0-46de-d48f-115d-eed6f65d0549" testName="se_realizan_los_cambios_de_estado_segun_la_configuracion" computerName="GORPC" duration="00:00:00.0360684" startTime="2011-10-31T20:34:53.3825875+01:00" endTime="2011-10-31T20:34:53.9325883+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b02f09bc-d970-4b27-b580-0ce9fa21e24b">
+    </UnitTestResult>
+    <UnitTestResult executionId="2e99707b-2046-423e-bfab-f95ca6d415ef" testId="fbbc8eb6-e0c6-de4c-e4ef-a79b317604a7" testName="puedo_crear_un_servidor_y_un_cliente_y_puedo_iniciarlos_y_sincronizarlos_obteniendo_el_resultado_del_tomaco" computerName="GORPC" duration="00:00:03.0677252" startTime="2011-10-31T20:34:53.9325883+01:00" endTime="2011-10-31T20:34:57.0025926+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e99707b-2046-423e-bfab-f95ca6d415ef">
+    </UnitTestResult>
+  </Results>
+</TestRun>

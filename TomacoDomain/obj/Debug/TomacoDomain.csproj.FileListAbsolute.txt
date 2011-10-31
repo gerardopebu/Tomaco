@@ -1,0 +1,10 @@
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGamesDomain\bin\Debug\TomacoDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGamesDomain\bin\Debug\TomacoDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGamesDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGamesDomain\obj\Debug\TomacoDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\CodeGamesDomain\obj\Debug\TomacoDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\bin\Debug\TomacoDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\bin\Debug\TomacoDomain.pdb
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\obj\Debug\TomacoDomain.dll
+C:\Users\Iago\Documents\Visual Studio 2010\Projects\Tomaco\TomacoDomain\obj\Debug\TomacoDomain.pdb
